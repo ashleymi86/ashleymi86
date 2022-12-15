@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🤔 I’m looking for help with markdown
+- 💬 Ask me about my dog
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a Saint Bernard named Appa
 <!--
 **ashleymi86/ashleymi86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
